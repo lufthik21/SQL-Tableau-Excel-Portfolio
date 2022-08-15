@@ -1,4 +1,4 @@
-# SQL-Tableau-Portfolio
+# SQL-Tableau-Excel-Portfolio
 
 ## Following are my projects in SQL & Tableau
 #### *You can take a look at my personal website : [lufthik21.github.io](lufthik21.github.io)* <br />
